@@ -1,0 +1,6 @@
+main.go = spustenie aj vue
+
+url = http://localhost:8090/_/#/login
+
+email: example@gmail.com
+heslo: functu5240
